@@ -1,0 +1,29 @@
+body{
+}
+
+.product{
+    
+        background: #F7F7F7;
+        border-radius: 10px;
+        height: 500px;
+        padding-left: 10px;
+        
+        
+
+}
+.product-row{
+    padding-left: 10px;
+}
+.price-list >select{
+    display: inline-block;
+    position: relative;
+    left: 10px;
+    top: -30px;
+}
+input{
+    margin-top: 5px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
